@@ -1,0 +1,28 @@
+THIRD-PARTY NOTICES
+
+Omida Studio uses the following separately licensed components.
+
+Electron
+https://www.electronjs.org/
+The release includes Electron's LICENSE and Chromium notices
+at LICENSE and LICENSES.chromium.html.
+
+llama.cpp (b12284, Windows x64 Vulkan and CPU)
+https://github.com/ggml-org/llama.cpp/releases/tag/b12284
+The upstream MIT license and LLVM OpenMP notices are included in
+resources/runtime-vulkan. The upstream project and releases provide source
+and build information.
+
+Squirrel.Windows
+https://github.com/Squirrel/Squirrel.Windows
+The installer and the Update.exe it places beside the application are
+Squirrel.Windows, distributed under the MIT license.
+
+Inter and IBM Plex Mono
+https://github.com/rsms/inter
+https://github.com/IBM/plex
+The fonts are distributed under the SIL Open Font License 1.1. The license
+texts are included alongside the fonts in the application bundle.
+
+Models are downloaded separately. Their model cards describe the licenses
+and terms that apply to each checkpoint.

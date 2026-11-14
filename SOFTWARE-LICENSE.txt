@@ -1,0 +1,24 @@
+OMIDA STUDIO — SOFTWARE LICENSE
+
+Copyright © 2026 Omida. All rights reserved.
+
+Omida grants you a nonexclusive, nontransferable license to download and run
+the official Omida Studio release for personal use or for internal use in your
+organization, subject to these terms. You may make a backup for your own use.
+
+Omida retains ownership of the Omida Studio application, branding, and accompanying
+materials. This license does not grant rights to resell, sublicense,
+redistribute, modify, or create derivative versions of the Omida Studio application,
+or to use Omida or Omida Studio branding in another product. You may share the
+official download link. Any rights that applicable law guarantees you remain
+available.
+
+This license applies to the Omida application. Third-party components and
+downloaded models are governed by their own licenses. See the notices included
+with the release and the license supplied with each model.
+
+To the extent permitted by law, the application is provided as is, without
+warranties. Nothing in these terms limits rights or remedies that cannot be
+waived under applicable law.
+
+For licensing inquiries, see https://github.com/gh0st359/omida-studio.
